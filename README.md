@@ -1,7 +1,7 @@
 # raktarozasi_problema
 Mesterséges intelligencia 1. házi feladat.
 
-# Futtatási környezet:
+#### Futtatási környezet:
 Python 3
 
 A program egyetlen python fájl, használatát lásd a *feladatkiiras* mappában lévő pdf-ben.
